@@ -1,0 +1,17 @@
+meu-array: 
+ var-array: [value-var1,value-var2]
+ var-normal:
+  var-sub-array: [value-sub-array-var1,value-sub-array-var2]
+
+meu-outro-array:
+ var-array: [value-var1,value-var2]
+ var-normal: normal
+
+pessoa:
+ nome: fulano
+ sobrenome: ciclano
+ idade: 33 anos
+
+comments: >
+    E bom esse yaml hein?
+    @guilhermelias
